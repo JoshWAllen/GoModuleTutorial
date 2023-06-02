@@ -1,3 +1,3 @@
-module github.com/JoshWAllen/GoModuleTutorial/greetings
+module github.com/JoshWAllen/GoModuleTutorial
 
 go 1.20
